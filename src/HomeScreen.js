@@ -1,7 +1,7 @@
 import { React } from 'react';
 import { StyleSheet, Text, View, ImageBackground, Image } from 'react-native';
 
-const image = require('../assets/background.png');
+const image = require('../assets/background2.png');
 const imageOK = require('../assets/ok.png');
 
 export function HomeScreen() {

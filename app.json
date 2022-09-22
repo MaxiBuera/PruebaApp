@@ -4,10 +4,10 @@
     "slug": "PruebaApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo_utn_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash_utn.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,9 +22,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/logo_utn_icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.maxibuera.PruebaApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
